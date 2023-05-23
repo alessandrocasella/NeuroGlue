@@ -1,5 +1,9 @@
-# NeuroGlue
-Self supervised learning based method for keypoints computation and matching in Neurosurgery
+# NeuroGlue: Mosaicking for Neurosurgical microscopy
 
+## Aim of the work
 
-TODO: Writing a documentation for it :-)
+Self-supervised learning based method for keypoints computation and matching for neurosurgical images
+
+## TODO
+- [ ] Fill the TODO
+- [ ] Clean and Release :wink:
